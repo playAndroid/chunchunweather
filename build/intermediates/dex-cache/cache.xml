@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_bad0d3b08e72be3c8e02c26d1157646806e46f6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haokun/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/pre-dexed/release/okhttp-3.6.0_786e93c8928f0483f9aa8e978fcdf25064d7d5ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haokun/.gradle/caches/modules-2/files-2.1/org.orienteer/logger/1.2/c0bf346573f18365a9c6a34ccd9365d063d97d45/logger-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bf346573f18365a9c6a34ccd9365d063d97d45">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/pre-dexed/release/logger-1.2_f072c01a3bb1b0f10778d68c1ae01b41d87c1728.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-25.1.1_bad0d3b08e72be3c8e02c26d1157646806e46f6e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haokun/.gradle/caches/modules-2/files-2.1/org.orienteer/logger/1.2/c0bf346573f18365a9c6a34ccd9365d063d97d45/logger-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bf346573f18365a9c6a34ccd9365d063d97d45">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/logger-1.2_f072c01a3bb1b0f10778d68c1ae01b41d87c1728/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haokun/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/pre-dexed/release/okio-1.11.0_bbbf2df6c9ff1784c3b9c3c06b85dcab55a96150.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haokun/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.6.0_786e93c8928f0483f9aa8e978fcdf25064d7d5ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haokun/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.5.1/bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc/butterknife-annotations-8.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.5.1_c6e3e4edd73d099dffd9c69c54b6f90eee38d82f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haokun/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.5.1/bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc/butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/pre-dexed/release/butterknife-annotations-8.5.1_c6e3e4edd73d099dffd9c69c54b6f90eee38d82f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.1.1_59abb0e9a2f16565d7e1768395ea3fb733505584.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_9612c72b3d0423c78b41ca1ab86bb18d94ef5d78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f0ac38650304f5d8dbc502533c216937fbf1ce1">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c9eb05764400355868037571708b42b6f46cff0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_59abb0e9a2f16565d7e1768395ea3fb733505584/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/pre-dexed/release/com.android.support-design-25.1.1_070b1814549404183e6eedbe0ec1cb982829c11e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haokun/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_7abd875d65da567b5431a2f6d6dbb874293c98dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_4bde161cbfcdccdff9daa2e36e02afd260c464eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haokun/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/pre-dexed/release/gson-2.8.0_7abd875d65da567b5431a2f6d6dbb874293c98dc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_070b1814549404183e6eedbe0ec1cb982829c11e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haokun/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.11.0_bbbf2df6c9ff1784c3b9c3c06b85dcab55a96150/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_be2caacab55755f17cc346d6f2c85dd7be10e1ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_8ae5737298db69a75f707a5345ba95766132d02e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-25.1.1_8ae5737298db69a75f707a5345ba95766132d02e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-25.1.1_be2caacab55755f17cc346d6f2c85dd7be10e1ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-25.1.1_082b587147b916d32743b6125726726c2ec0ac04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haokun/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/pre-dexed/release/glide-3.7.0_c10c088fcdb91b806709840116f3a9531326af88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.1.1_4bde161cbfcdccdff9daa2e36e02afd260c464eb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haokun/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_c10c088fcdb91b806709840116f3a9531326af88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_4c4d36e4d4cc31d0488473e484ea8895568710b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-25.1.1_4c4d36e4d4cc31d0488473e484ea8895568710b7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_68961d8084a5161f530d3ce1aa7dc5259dfcdf0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-25.1.1_9612c72b3d0423c78b41ca1ab86bb18d94ef5d78.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.1.1_b3f5480cf96057e03318820d0c503fa172f55e56/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-25.1.1_b3f5480cf96057e03318820d0c503fa172f55e56.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_2e7040ee50041883e22f3337943d19ab7f47d48c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.1.1_68961d8084a5161f530d3ce1aa7dc5259dfcdf0f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haokun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_4769b00745777f2a7dd340dd558792be827db0c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.1.1_2e7040ee50041883e22f3337943d19ab7f47d48c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_082b587147b916d32743b6125726726c2ec0ac04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bc0952e60728b6f07470de805c7dcdf3e3846a2">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_14747bb8e2ff723b6047774d116f99bb440dfa07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.5.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.5.1_4c66903f6796ee4ae93798751ac7cb49306af493/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/org.litepal.android/core/1.3.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9a24b1b000b211eabfa13b5834c059818bc98fd5">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/pre-dexed/release/org.litepal.android-core-1.3.2_837d7cfe022e76d82c706ddddfff2c33ebb1759a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/pre-dexed/release/com.android.support-transition-25.1.1_c75fc148c5ecfff13a5c4f20ec4898c82f917e7c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_c75fc148c5ecfff13a5c4f20ec4898c82f917e7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/org.litepal.android/core/1.3.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9a24b1b000b211eabfa13b5834c059818bc98fd5">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.litepal.android-core-1.3.2_837d7cfe022e76d82c706ddddfff2c33ebb1759a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haokun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/pre-dexed/release/support-annotations-25.1.1_4769b00745777f2a7dd340dd558792be827db0c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.5.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/pre-dexed/release/com.jakewharton-butterknife-8.5.1_4c66903f6796ee4ae93798751ac7cb49306af493.jar" />
+    </item>
+
+</items>
