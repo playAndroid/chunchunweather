@@ -40,12 +40,12 @@
         "source": "/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png",
-        "source": "/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
-    },
-    {
         "merged": "/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
         "source": "/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "/Users/haokun/gitapp/KuQiWeather/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_normal.9.png",
